@@ -1,3 +1,7 @@
+# About [! important] The AgentConnect repository has been moved to a new address: 
+
+[https://github.com/agent-network-protocol/AgentConnect](https://github.com/agent-network-protocol/AgentConnect)
+
 <div align="center">
   
 [English](README.md) | [中文](README.cn.md)
