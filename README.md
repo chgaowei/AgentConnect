@@ -1,4 +1,4 @@
-# About [! important] The AgentConnect repository has been moved to a new address: 
+# [! important] The AgentConnect repository has been moved to a new address: 
 
 [https://github.com/agent-network-protocol/AgentConnect](https://github.com/agent-network-protocol/AgentConnect)
 
